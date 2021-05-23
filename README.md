@@ -9,4 +9,4 @@ A joke meme mod for Eco based around Streamer AdmiralBahroo's glue panda emotes.
 
 # License
 
-The Eco Panda Glue mod is available under the MIT license. A copy of this license should be provided in the repository root. Otherwise it can be found <a href="https://github.com/thetestgame/EcoGlueFood/blob/main/LICENSE">here</a>
+The Eco Glue mod is available under the MIT license. A copy of this license should be provided in the repository root. Otherwise it can be found <a href="https://github.com/thetestgame/EcoGlueFood/blob/main/LICENSE">here</a>
