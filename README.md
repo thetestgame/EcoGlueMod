@@ -1,10 +1,10 @@
 Eco Panda Glue Mod
 ==================
 
-A joke meme mod for Eco based around Streamer AdmiralBahroo's glue panda emotes
+A joke meme mod for Eco based around Streamer AdmiralBahroo's glue panda emotes. Based on the actual scientific nutritional values of elmer's glue 
 
 <br/>
-<img src="https://pbs.twimg.com/media/E1PB61zWYAUeEJc?format=png&name=120x120" width="64"><br/><br/>
+<img src="https://pbs.twimg.com/media/E1PB61zWYAUeEJc?format=png&name=120x120" width="64">
 <img src=".github/glue.png"><br/><br/>
 
 # License
