@@ -5,7 +5,7 @@ A joke meme mod for Eco based around Streamer AdmiralBahroo's glue panda emotes.
 
 <br/>
 <img src="https://pbs.twimg.com/media/E1PB61zWYAUeEJc?format=png&name=120x120" width="64">
-<img src=".github/glue.png"><br/><br/>
+<img src=".github/glue.png">
 
 # License
 
